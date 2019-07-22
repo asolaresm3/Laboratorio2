@@ -1,0 +1,92 @@
+
+body {
+    background-size: cover;
+    background-color: silver;
+  }
+  
+  
+  /*=======================Propiedades Body===================================*/
+  
+  header {
+    background-color: #42adf4;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  
+  /* ==========================Propiedades Header ===============================*/
+  
+  .contenedor {
+    background-color: white;
+    height: 40px;
+  }
+  
+  
+  #navbar ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    
+  }
+  
+  #navbar ul li {
+    list-style-type: none;
+    text-align: center;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline;
+  }
+  
+  
+  h3 {
+    color: #42adf4;
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+    border: white
+  }
+  
+  p {
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+    text-align:  center;
+  }
+ 
+  
+  img{
+    width:  500px;
+    margin-left:  500px;
+    margin-top:  10px;
+  }
+  
+  
+  h2 {
+    border-bottom-style: none;
+    border-bottom: thick solid;
+    border-bottom-width: 2px;
+    border-color: white;
+    color: white;
+    font-size: 20px;
+    padding: 20px 0px 20px 0px;
+    margin-left:  40%;
+    margin-right:  40%;
+    
+    
+    
+  }
+ 
+  
+  footer {
+    margin-top: 50px;
+    background-color: #42adf4;
+    height:  80px;
+    padding:  40px;
+    
+    
+  }
+  
